@@ -31,7 +31,8 @@ a:focus {
 }
 
 .circular{
-  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
   width: 150px;
 	height: 150px;
 	border-radius: 150px;
